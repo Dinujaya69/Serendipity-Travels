@@ -1,9 +1,9 @@
 import React from "react";
 import { Facebook, Instagram, Twitter } from "lucide-react";
- import LOGO from "../../../../public/logo.png";
+ import LOGO from "../../../../public/Logo.png";
 import FooterShape from "../../../../public/rectShape.png";
 import FooterBImage from "../../../../public/FooterBImage.png";
-import Vector from "../../../../public/Vector.svg";
+
 import Image from "next/image";
 import Link from "next/link";
 import ContactForm from "../ContactForm";
