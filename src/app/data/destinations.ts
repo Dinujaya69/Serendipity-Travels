@@ -26,8 +26,8 @@ export interface MoreDestination {
 
 export const destinations: Destination[] = [
   { id: 1, name: "Anuradhapura", province:"North Central Province", established:"5th century BC",image: anuradhapura , coverImg: AnuradhapuraCoverImg },
-  { id: 2, name: "Sigiriya", province:"North Central Province", established:"5th century BC",image: sigiriya , coverImg: AnuradhapuraCoverImg },
-  { id: 3, name: "Ella", province:"North Central Province", established:"5th century BC",image: ella , coverImg: AnuradhapuraCoverImg },
+  { id: 2, name: "Sigiriya", province:"South Central Province", established:"5th century BC",image: sigiriya , coverImg: AnuradhapuraCoverImg },
+  { id: 3, name: "Ella", province:"East Central Province", established:"5th century BC",image: ella , coverImg: AnuradhapuraCoverImg },
 
   { id: 4, name: "Anuradhapura", province:"North Central Province", established:"5th century BC",image: anuradhapura , coverImg: AnuradhapuraCoverImg },
   { id: 5, name: "Sigiriya", province:"North Central Province", established:"5th century BC",image: sigiriya , coverImg: AnuradhapuraCoverImg },
